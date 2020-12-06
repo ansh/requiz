@@ -1,6 +1,18 @@
 # requiz
 HackDuke 2020
 
+![Landing page](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/305/840/datas/original.png)
+
+![Using the Chrome Extension](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/305/834/datas/original.png)
+
+![Uploading files on the web app](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/305/837/datas/original.png)
+
+![Doing quiz questions that are generated using our AI technology](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/305/838/datas/original.png)
+
+![Dashboard view with past tests](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/305/839/datas/original.png)
+
+
+
 ## Inspiration
 As students looking to improve our study habits in a world of online-learning, we sought to create a simplistic, effective way to retain educational information.
 
@@ -44,3 +56,6 @@ In the future, we are looking to improve our machine learning model and increase
 Also, we would like to investigate more into psychological methods for efficient memorization. Our current strategy with having recurring quizzes only takes into account standard psychological trends with forgetting information. However, it does not take into account the user’s performance on each quiz to dynamically alter the frequency of quizzes.
 
 Finally, we would like to build a mobile application to go with ReQuiz. That way, the user can be easily notified when new quizzes are ready!
+
+
+[Demo URL](https://www.youtube.com/watch?v=Y1G9xCGinCs&feature=emb_title)
